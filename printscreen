@@ -1,0 +1,13 @@
+//画面印刷
+
+$(function(){
+    $('a.print').click(function(){
+        window.print();
+        return false;
+    });
+});
+
+/*
+aタグclassがprintで
+クリックした文字以外を印刷する画面に移行する。
+*/
