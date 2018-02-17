@@ -1,0 +1,2 @@
+//windowを閉じる
+window.open('about:blank','_self').close();
