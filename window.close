@@ -1,4 +1,4 @@
 //windowを閉じる
-function close(){
+function bye(){
 	window.open('about:blank','_self').close();
 }
