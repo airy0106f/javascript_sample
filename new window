@@ -1,0 +1,5 @@
+// 新規タブで開く
+window.open('http://example.co.jp');
+
+// サイズを指定すると新規ウィンドウで開く
+window.open('http://example.co.jp', '_blank', 'width=800,height=600');
